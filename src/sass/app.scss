@@ -1,0 +1,20 @@
+@import "base/extends";
+@import "base/normalize";
+@import "base/helpers";
+@import "base/typography";
+
+// @import "components/";
+
+// @import "layout/";
+
+// @import "vendor/";
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #eee;
+  color: #444;
+}
+
+h1 {
+  color: red;
+}
